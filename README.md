@@ -1,0 +1,2 @@
+# Shidarezakura
+投票の基準になるReactionを設置するDiscordBot
